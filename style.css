@@ -1,0 +1,68 @@
+body{
+  font-family: "Lato",sans-serif;
+}
+
+.Cabecera{
+  background-color: #13124f;
+  color: white;
+}
+
+.btnCabecera{
+  background-color: #f61067;
+  color: white;
+  text-transform: uppercase; 
+  border-width: medium;
+}
+
+.Cabecera h3{
+  padding-bottom: 15px;
+}
+
+.gly{
+  padding: 0px 10px;
+}
+
+.messages{
+  background-color: #13124f;
+  color: white;
+  margin-left: 8px;
+}
+
+.panel{
+  margin-top: 20px;
+}
+
+.panelC{
+  background-color: #9090a5;
+  color: white;
+  font-size: 20px;
+}
+
+.panelB{
+  background-color: #13124f;
+  color: white;
+  font-size: 15px;    
+}
+
+.textcamp{
+  background-color: #1b1b6c;
+  color: #9090a5;
+  font-size: 15px;    
+}
+
+.panelB2{
+  background-color: #352ba5;  
+  text-align: center;
+}
+
+.panelB2 a{
+  color: white;
+}
+
+p{
+  margin-bottom: 20px;
+}
+
+.panel.panelB p{
+  font-size: 16px;
+}
